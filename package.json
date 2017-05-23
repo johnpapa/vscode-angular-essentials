@@ -19,7 +19,7 @@
         "TypeScript",
         "HTML"
     ],
-    "version": "1.0.0-beta.1",
+    "version": "1.0.0-beta-1",
     "publisher": "johnpapa",
     "engines": {
         "vscode": "^1.12.0"
