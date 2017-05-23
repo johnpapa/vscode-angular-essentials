@@ -1,7 +1,9 @@
-# Change Log
-All notable changes to the "angular-essentials" extension pack will be documented in this file.
+## Angular Essentials Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+<a name="1.0.0-beta.1"></a>
+# 1.0.0-beta.1 (2017-05-23)
 
-## [Unreleased]
-- Initial release
+* Initial Version
+  * Created extension pack
+
+

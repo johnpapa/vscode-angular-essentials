@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension pack "angular-essentials"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Angular Essentials - Extension Pack for VS Code
+This extension pack for Visual Studio Code adds extensions that are amazingly useful for Angular development.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+** Beta **
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
-**Enjoy!**# vscode-angular-essentials
+## Extensions Included in the Pack
+- Angular v4 Snippets ("johnpapa.Angular2")
+- Angular Language Service ("Angular.ng-template")
+- Editor Config ("EditorConfig.EditorConfig")
+- tslint ("eg2.tslint")
+- Chrome Debugger ("msjsdiag.debugger-for-chrome")
+- Bracket Pair Colorizer ("CoenraadS.bracket-pair-colorizer")
+- JSON to TypeScript ("MariusAlchimavicius.json-to-ts")
+- Path Intellisense ("christian-kohler.path-intellisense")
+- Angular Emmet ("jakethashi.vscode-angular2-emmet")
+- Angular Inline ("natewallace.angular2-inline")
