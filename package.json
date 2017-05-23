@@ -1,0 +1,33 @@
+{
+    "name": "angular-essentials",
+    "displayName": "angular-essentials",
+    "description": "Essential extensions for Angular developers",
+    "icon": "images/angular-shield.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johnpapa/vscode-angular-essentials.git"
+    },
+    "keywords": [
+        "Angular",
+        "Angular 2",
+        "Angular 4",
+        "TypeScript",
+        "HTML"
+    ],
+    "version": "0.0.1",
+    "publisher": "johnpapa",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "publisher.extensionName"
+    ]
+}
