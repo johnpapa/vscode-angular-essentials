@@ -13,11 +13,9 @@ Introducing my [Angular Essentials extension pack for VS Code](https://marketpla
 
 Here is the list of extensions the pack includes:
 
-[Angular v4 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - 
-Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
+[Angular v4 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
 
-[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - 
-This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates. 
+[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates. 
 
 [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
 
