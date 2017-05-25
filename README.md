@@ -29,6 +29,4 @@ Here is the list of extensions the pack includes:
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames. Hopefully, VS Code will bake this in at some point. Until then, this is a keeper.
 
-[Angular Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet) - Support zen-coding syntax for Angular 2 typescript files. Again, hopefully, VS Code will bake this in at some point. Until then, this is a keeper.
-
 [Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2. 
