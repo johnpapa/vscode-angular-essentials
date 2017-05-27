@@ -25,8 +25,13 @@ Here is the list of extensions the pack includes:
 
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colors. This is super helpful when you have nested functions and objects.
 
-[JSON to TypeScript](https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts) - Convert JSON object to typescript interfaces. I don't use this a lot, but it can be helpful. I tend to use the VS Code multi cursor to refactor JSON, but this is easier for this infrequent task.
-
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames. Hopefully, VS Code will bake this in at some point. Until then, this is a keeper.
 
 [Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2. 
+
+[JSON 2 TS](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts) - 
+Convert a JSON from clipboard to TypeScript interfaces. 
+
+[Angular Material Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - File and folder icons for that work well with Angular
+
+

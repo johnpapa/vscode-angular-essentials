@@ -1,5 +1,11 @@
 ## Angular Essentials Changelog
 
+<a name="0.1.0"></a>
+# 0.1.0 (2017-05-27)
+
+* Added [Angular Material Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* Replaced JSON to TS with [JSON2TS](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts)
+
 <a name="0.0.3"></a>
 # 0.0.3 (2017-05-25)
 

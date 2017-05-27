@@ -19,7 +19,7 @@
         "TypeScript",
         "HTML"
     ],
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "johnpapa",
     "engines": {
         "vscode": "^1.12.0"
@@ -34,8 +34,9 @@
         "eg2.tslint",
         "msjsdiag.debugger-for-chrome",
         "CoenraadS.bracket-pair-colorizer",
-        "MariusAlchimavicius.json-to-ts",
         "christian-kohler.path-intellisense",
-        "natewallace.angular2-inline"
+        "natewallace.angular2-inline",
+        "GregorBiswanger.json2ts",
+        "PKief.material-icon-theme"
     ]
 }
