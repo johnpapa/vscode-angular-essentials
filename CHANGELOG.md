@@ -1,5 +1,10 @@
 ## Angular Essentials Changelog
 
+<a name="0.2.0"></a>
+# 0.2.0 (2017-06-04)
+
+* Removed [JSON2TS](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts)
+
 <a name="0.1.0"></a>
 # 0.1.0 (2017-05-27)
 
