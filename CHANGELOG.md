@@ -1,5 +1,13 @@
 ## Angular Essentials Changelog
 
+<a name="0.3.0"></a>
+# 0.3.0 (2017-10-18)
+
+* Added [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) theme
+* Added [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+* Removed [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 <a name="0.2.0"></a>
 # 0.2.0 (2017-06-04)
 

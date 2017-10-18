@@ -19,7 +19,7 @@
         "TypeScript",
         "HTML"
     ],
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "johnpapa",
     "engines": {
         "vscode": "^1.12.0"
@@ -33,9 +33,10 @@
         "EditorConfig.EditorConfig",
         "eg2.tslint",
         "msjsdiag.debugger-for-chrome",
-        "CoenraadS.bracket-pair-colorizer",
         "christian-kohler.path-intellisense",
         "natewallace.angular2-inline",
-        "PKief.material-icon-theme"
+        "PKief.material-icon-theme",
+        "johnpapa.winteriscoming",
+        "esbenp.prettier-vscode"
     ]
 }
