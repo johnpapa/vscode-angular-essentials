@@ -27,8 +27,6 @@ Here is the list of extensions the pack includes:
 
 [Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
 
-[Angular Material Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - File and folder icons for that work well with Angular
-
 [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) theme
 
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)VS Code plugin for prettier/prettier, which formats code consistently

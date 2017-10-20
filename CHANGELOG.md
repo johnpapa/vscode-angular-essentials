@@ -1,9 +1,10 @@
 ## Angular Essentials Changelog
 
-<a name="0.3.1"></a>
-# 0.3.1 (2017-10-20)
+<a name="0.3.2"></a>
+# 0.3.2 (2017-10-20)
 
-# Fixed icon
+* Fixed icon
+* Removed [Angular Material Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) to allow more choices
 
 <a name="0.3.0"></a>
 # 0.3.0 (2017-10-18)
