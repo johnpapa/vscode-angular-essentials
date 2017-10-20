@@ -1,5 +1,10 @@
 ## Angular Essentials Changelog
 
+<a name="0.3.1"></a>
+# 0.3.1 (2017-10-20)
+
+# Fixed icon
+
 <a name="0.3.0"></a>
 # 0.3.0 (2017-10-18)
 
