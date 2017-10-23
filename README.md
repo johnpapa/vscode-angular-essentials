@@ -11,6 +11,52 @@ Introducing my [Angular Essentials extension pack for VS Code](https://marketpla
 
 > As web tools evolve, the usefulness of extensions come and go. I reserve the right to update the extension pack's contents up to my own discretion.
 
+## Recommended Settings
+
+Editor settings
+
+```json
+	"editor.codeLens": false,
+	"editor.renderWhitespace": "none",
+	"editor.autoIndent": true,
+	"editor.fontSize": 14,
+	"editor.fontFamily": "Inconsolata, Fira code",
+	"editor.formatOnPaste": false,
+	"editor.formatOnType": true,
+	"editor.letterSpacing": 1,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "off",
+```
+
+File settings
+
+```json
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 2000,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+		"**/*.js": {
+			"when": "$(basename).ts"
+		},
+		"**/*.js.map": {
+			"when": "$(basename)"
+		}
+	},
+	"files.hotExit": "onExit",
+	"files.defaultLanguage": "typescript",
+	"files.trimTrailingWhitespace": true,  
+```
+
+Prettier settings
+
+```json
+  "prettier.singleQuote": true,
+	"prettier.printWidth": 100,
+```
+
+## Included
+
 Here is the list of extensions the pack includes:
 
 [Angular v4 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
@@ -29,6 +75,6 @@ Here is the list of extensions the pack includes:
 
 [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) theme
 
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)VS Code plugin for prettier/prettier, which formats code consistently
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) VS Code plugin for prettier/prettier, which formats code consistently
 
 
