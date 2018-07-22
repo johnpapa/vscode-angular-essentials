@@ -15,11 +15,11 @@
     "keywords": [
         "Angular",
         "Angular 2",
-        "Angular 4",
+        "Angular 6",
         "TypeScript",
         "HTML"
     ],
-    "version": "0.3.2",
+    "version": "0.4.0",
     "publisher": "johnpapa",
     "engines": {
         "vscode": "^1.12.0"
@@ -36,6 +36,8 @@
         "christian-kohler.path-intellisense",
         "natewallace.angular2-inline",
         "johnpapa.winteriscoming",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "eg2.vscode-npm-script",
+        "pkief.material-icon-theme"
     ]
 }

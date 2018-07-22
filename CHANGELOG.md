@@ -1,5 +1,11 @@
 ## Angular Essentials Changelog
 
+<a name="0.4.0"></a>
+# 0.4.0 (2018-07-25)
+
+* Added [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme)
+* Added [Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
 <a name="0.3.2"></a>
 # 0.3.2 (2017-10-20)
 

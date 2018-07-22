@@ -1,8 +1,6 @@
 # Angular Essentials - Extension Pack for VS Code
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for Angular development.
 
-** Beta **
-
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
 I am often asked, "What are you favorite VS Code extensions for Angular?". I decided it was time to share them via an extension pack.
@@ -45,7 +43,7 @@ File settings
 	},
 	"files.hotExit": "onExit",
 	"files.defaultLanguage": "typescript",
-	"files.trimTrailingWhitespace": true,  
+	"files.trimTrailingWhitespace": true,
 ```
 
 Prettier settings
@@ -59,7 +57,7 @@ Prettier settings
 
 Here is the list of extensions the pack includes:
 
-[Angular v4 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
+[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
 
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
 
@@ -77,4 +75,6 @@ Here is the list of extensions the pack includes:
 
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) VS Code plugin for prettier/prettier, which formats code consistently
 
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) Show material icons in the explorer
 
+[Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
