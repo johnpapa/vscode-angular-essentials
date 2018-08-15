@@ -27,7 +27,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [
+    "extensionPack": [
         "johnpapa.Angular2",
         "Angular.ng-template",
         "EditorConfig.EditorConfig",
