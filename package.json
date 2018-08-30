@@ -33,7 +33,6 @@
         "EditorConfig.EditorConfig",
         "eg2.tslint",
         "msjsdiag.debugger-for-chrome",
-        "christian-kohler.path-intellisense",
         "natewallace.angular2-inline",
         "johnpapa.winteriscoming",
         "esbenp.prettier-vscode",
