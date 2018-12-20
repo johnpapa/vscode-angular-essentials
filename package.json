@@ -38,6 +38,7 @@
         "johnpapa.winteriscoming",
         "esbenp.prettier-vscode",
         "eg2.vscode-npm-script",
-        "pkief.material-icon-theme"
+        "pkief.material-icon-theme",
+        "rctay.karma-problem-matcher"
     ]
 }
