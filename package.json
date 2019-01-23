@@ -31,7 +31,7 @@
         "johnpapa.Angular2",
         "Angular.ng-template",
         "EditorConfig.EditorConfig",
-        "eg2.tslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
         "msjsdiag.debugger-for-chrome",
         "christian-kohler.path-intellisense",
         "natewallace.angular2-inline",
