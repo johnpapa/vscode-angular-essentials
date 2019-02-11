@@ -5,9 +5,9 @@
 # 0.5.0 (2018-07-25)
 
 - Updated readme
-- Removed path intellisense
-- Changed tslint extension
-- updated extension pack dependency configuration
+- Removed [path intellisense extension](https://github.com/johnpapa/vscode-angular-essentials/pull/15)
+- Changed [tslint extension](https://github.com/johnpapa/vscode-angular-essentials/pull/25)
+- updated [extension pack dependency configuration](https://github.com/johnpapa/vscode-angular-essentials/pull/14)
 
 <a name="0.4.0"></a>
 
