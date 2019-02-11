@@ -14,48 +14,46 @@ Introducing my [Angular Essentials extension pack for VS Code](https://marketpla
 Editor settings
 
 ```json
-	"editor.codeLens": false,
-	"editor.renderWhitespace": "none",
-	"editor.autoIndent": true,
-	"editor.fontSize": 14,
-	"editor.fontFamily": "Inconsolata, Fira code",
-	"editor.formatOnPaste": false,
-	"editor.formatOnType": true,
-	"editor.letterSpacing": 1,
-	"editor.tabSize": 2,
-	"editor.wordWrap": "off",
+"editor.codeLens": false,
+"editor.renderWhitespace": "none",
+"editor.autoIndent": true,
+"editor.fontSize": 14,
+"editor.fontFamily": "Inconsolata, Fira code",
+"editor.formatOnPaste": false,
+"editor.formatOnType": true,
+"editor.letterSpacing": 1,
+"editor.tabSize": 2,
+"editor.wordWrap": "off",
 ```
 
 File settings
 
 ```json
-	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 2000,
-	"files.exclude": {
-		"**/.git": true,
-		"**/.DS_Store": true,
-		"**/*.js": {
-			"when": "$(basename).ts"
-		},
-		"**/*.js.map": {
-			"when": "$(basename)"
-		}
-	},
-	"files.hotExit": "onExit",
-	"files.defaultLanguage": "typescript",
-	"files.trimTrailingWhitespace": true,
+"files.autoSave": "afterDelay",
+"files.autoSaveDelay": 2000,
+"files.exclude": {
+  "**/.git": true,
+  "**/.DS_Store": true,
+  "**/*.js": {
+    "when": "$(basename).ts"
+  },
+  "**/*.js.map": {
+    "when": "$(basename)"
+  }
+},
+"files.hotExit": "onExit",
+"files.defaultLanguage": "typescript",
+"files.trimTrailingWhitespace": true,
 ```
 
 Prettier settings
 
 ```json
-  "prettier.singleQuote": true,
-	"prettier.printWidth": 100,
+"prettier.singleQuote": true,
+"prettier.printWidth": 100,
 ```
 
 ## Included
-
-https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 
 Here is the list of extensions the pack includes:
 

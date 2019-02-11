@@ -1,8 +1,8 @@
 # Angular Essentials Changelog
 
-<a name="0.5.0"></a>
+<a name="0.5.1"></a>
 
-# 0.5.0 (2018-07-25)
+# 0.5.1 (2019-02-11)
 
 - Updated readme
 - Removed [path intellisense extension](https://github.com/johnpapa/vscode-angular-essentials/pull/15)

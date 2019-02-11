@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/johnpapa/vscode-angular-essentials.git"
   },
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "keywords": [
     "Angular",
     "Angular 2",
@@ -19,7 +22,7 @@
     "TypeScript",
     "HTML"
   ],
-  "version": "0.5.0",
+  "version": "0.5.1",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"
