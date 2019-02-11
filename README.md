@@ -55,24 +55,26 @@ Prettier settings
 
 ## Included
 
+https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
+
 Here is the list of extensions the pack includes:
 
-[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
+[Angular Snippets](https://aka.ms/code-ng-snippets) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
 
-[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
+[Angular Language Service](https://aka.ms/code-ng-ls) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
 
-[Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
+[Editor Config](https://aka.ms/code-ng-ec) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
 
-[tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - Integrates the tslint linter for the TypeScript language into VS Code. Extremely helpful at detecting and helping fix TypeScript issues.
+[tslint](https://aka.ms/code-ng-tslint) - Integrates the tslint linter for the TypeScript language into VS Code. Extremely helpful at detecting and helping fix TypeScript issues.
 
-[Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code debugger for Chrome.
+[Chrome Debugger](https://aka.ms/code-ng-chrome) - VS Code debugger for Chrome.
 
-[Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
+[Angular Inline](https://aka.ms/code-ng-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
 
-[Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) theme
+[Winter is Coming](https://aka.ms/code-ng-winter) theme
 
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) VS Code plugin for prettier/prettier, which formats code consistently
+[Prettier](https://aka.ms/code-ng-prettier) VS Code plugin for prettier/prettier, which formats code consistently
 
-[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) Show material icons in the explorer
+[Material Icon Theme](https://aka.ms/code-ng-mi) Show material icons in the explorer
 
-[Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
+[npm](https://aka.ms/code-ng-npm) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
