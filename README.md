@@ -1,4 +1,5 @@
 # Angular Essentials - Extension Pack for VS Code
+
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for Angular development.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
@@ -14,23 +15,34 @@ Introducing my [Angular Essentials extension pack for VS Code](https://marketpla
 Editor settings
 
 ```json
-"editor.codeLens": false,
-"editor.renderWhitespace": "none",
-"editor.autoIndent": true,
-"editor.fontSize": 14,
-"editor.fontFamily": "Inconsolata, Fira code",
-"editor.formatOnPaste": false,
-"editor.formatOnType": true,
-"editor.letterSpacing": 1,
-"editor.tabSize": 2,
-"editor.wordWrap": "off",
+  "editor.autoIndent": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false
+  },
+  "editor.codeLens": false,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Dank Mono, Operator Mono, Fira Code, Inconsolata, Menlo",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 25,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "off",
 ```
 
 File settings
 
 ```json
 "files.autoSave": "afterDelay",
-"files.autoSaveDelay": 2000,
+"files.autoSaveDelay": 1000,
 "files.exclude": {
   "**/.git": true,
   "**/.DS_Store": true,
@@ -57,22 +69,22 @@ Prettier settings
 
 Here is the list of extensions the pack includes:
 
-[Angular Snippets](https://aka.ms/code-ng-snippets) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
+[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&wt.mc_id=vscodeangularessentials-github-jopapa) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
 
-[Angular Language Service](https://aka.ms/code-ng-ls) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
+[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template&wt.mc_id=vscodeangularessentials-github-jopapa) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
 
-[Editor Config](https://aka.ms/code-ng-ec) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
+[Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig&wt.mc_id=vscodeangularessentials-github-jopapa) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
 
-[tslint](https://aka.ms/code-ng-tslint) - Integrates the tslint linter for the TypeScript language into VS Code. Extremely helpful at detecting and helping fix TypeScript issues.
+[tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin&wt.mc_id=vscodeangularessentials-github-jopapa) - Adds tslint to VS Code using the TypeScript TSLint language service plugin.
 
-[Chrome Debugger](https://aka.ms/code-ng-chrome) - VS Code debugger for Chrome.
+[Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome&wt.mc_id=vscodeangularessentials-github-jopapa) - VS Code debugger for Chrome.
 
-[Angular Inline](https://aka.ms/code-ng-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
+[Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline&wt.mc_id=vscodeangularessentials-github-jopapa) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
 
-[Winter is Coming](https://aka.ms/code-ng-winter) theme
+[Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=vscodeangularessentials-github-jopapa) theme
 
-[Prettier](https://aka.ms/code-ng-prettier) VS Code plugin for prettier/prettier, which formats code consistently
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&wt.mc_id=vscodeangularessentials-github-jopapa) VS Code plugin for prettier/prettier, which formats code consistently
 
-[Material Icon Theme](https://aka.ms/code-ng-mi) Show material icons in the explorer
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme&wt.mc_id=vscodeangularessentials-github-jopapa) Show material icons in the explorer
 
-[npm](https://aka.ms/code-ng-npm) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
+[npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script&wt.mc_id=vscodeangularessentials-github-jopapa) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
