@@ -1,10 +1,13 @@
 # Angular Essentials Changelog
 
-<a name="0.5.2"></a>
+<a name="0.6.0"></a>
 
-# 0.5.2 (2019-03-27)
+# 0.6.0 (2019-03-27)
 
-- Updated readme with settings
+- Added Peacock
+- Updated readme with editor settings
+- Updated readme with peacock settings
+- Sorted the packages in the README
 
 <a name="0.5.1"></a>
 

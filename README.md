@@ -12,7 +12,9 @@ Introducing my [Angular Essentials extension pack for VS Code](https://marketpla
 
 ## Recommended Settings
 
-Editor settings
+Here are some of my recommended settings. These are optional, but I get asked a lot for them, so here they are.
+
+### Editor settings
 
 ```json
   "editor.autoIndent": true,
@@ -38,7 +40,7 @@ Editor settings
   "editor.wordWrap": "off",
 ```
 
-File settings
+### File settings
 
 ```json
 "files.autoSave": "afterDelay",
@@ -58,33 +60,45 @@ File settings
 "files.trimTrailingWhitespace": true,
 ```
 
-Prettier settings
+### Prettier settings
 
 ```json
 "prettier.singleQuote": true,
 "prettier.printWidth": 100,
 ```
 
+### Peacock Settings
+
+These are my preferred settings for Peacock. I also choose the "favorite" of "Angular Red" for my Angular apps.
+
+```json
+"peacock.affectActivityBar": true,
+"peacock.affectStatusBar": true,
+"peacock.affectTitleBar": false,
+```
+
 ## Included
 
 Here is the list of extensions the pack includes:
 
-[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&wt.mc_id=vscodeangularessentials-github-jopapa) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
+[Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline&wt.mc_id=vscodeangularessentials-github-jopapa) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
 
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template&wt.mc_id=vscodeangularessentials-github-jopapa) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
 
-[Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig&wt.mc_id=vscodeangularessentials-github-jopapa) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
-
-[tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin&wt.mc_id=vscodeangularessentials-github-jopapa) - Adds tslint to VS Code using the TypeScript TSLint language service plugin.
+[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&wt.mc_id=vscodeangularessentials-github-jopapa) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
 
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome&wt.mc_id=vscodeangularessentials-github-jopapa) - VS Code debugger for Chrome.
 
-[Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline&wt.mc_id=vscodeangularessentials-github-jopapa) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
-
-[Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=vscodeangularessentials-github-jopapa) theme
-
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&wt.mc_id=vscodeangularessentials-github-jopapa) VS Code plugin for prettier/prettier, which formats code consistently
+[Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig&wt.mc_id=vscodeangularessentials-github-jopapa) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
 
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme&wt.mc_id=vscodeangularessentials-github-jopapa) Show material icons in the explorer
 
 [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script&wt.mc_id=vscodeangularessentials-github-jopapa) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
+
+[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=vscodeangularessentials-github-jopapa) This extension subtly changes the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&wt.mc_id=vscodeangularessentials-github-jopapa) VS Code plugin for prettier/prettier, which formats code consistently
+
+[tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin&wt.mc_id=vscodeangularessentials-github-jopapa) - Adds tslint to VS Code using the TypeScript TSLint language service plugin.
+
+[Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=vscodeangularessentials-github-jopapa) theme

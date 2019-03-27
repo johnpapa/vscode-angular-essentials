@@ -22,7 +22,7 @@
     "TypeScript",
     "HTML"
   ],
-  "version": "0.5.2",
+  "version": "0.6.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"
@@ -38,6 +38,7 @@
     "msjsdiag.debugger-for-chrome",
     "natewallace.angular2-inline",
     "johnpapa.winteriscoming",
+    "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
     "eg2.vscode-npm-script",
     "pkief.material-icon-theme"
