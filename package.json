@@ -22,7 +22,7 @@
     "TypeScript",
     "HTML"
   ],
-  "version": "0.5.1",
+  "version": "0.5.2",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"

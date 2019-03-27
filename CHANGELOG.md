@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="0.5.2"></a>
+
+# 0.5.2 (2019-03-27)
+
+- Updated readme with settings
+
 <a name="0.5.1"></a>
 
 # 0.5.1 (2019-02-11)
