@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="0.6.1"></a>
+
+# 0.6.1 (2019-04-27)
+
+- Added Angular Console
+
 <a name="0.6.0"></a>
 
 # 0.6.0 (2019-03-27)
