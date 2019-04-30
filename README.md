@@ -134,6 +134,8 @@ Here is the list of extensions the pack includes:
 
 [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&wt.mc_id=vscodeangularessentials-github-jopapa) - Angular snippets that follow the official style guide, for TypeScript, templates, and RxJS.
 
+[Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console&wt.mc_id=vscodeangularessentials-github-jopapa) - The UI for the Angular CLI.
+
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome&wt.mc_id=vscodeangularessentials-github-jopapa) - VS Code debugger for Chrome.
 
 [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig&wt.mc_id=vscodeangularessentials-github-jopapa) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
