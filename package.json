@@ -13,7 +13,8 @@
     "url": "https://github.com/johnpapa/vscode-angular-essentials.git"
   },
   "scripts": {
-    "publish": "vsce publish"
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
   },
   "keywords": [
     "Angular",
