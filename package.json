@@ -18,11 +18,11 @@
   "keywords": [
     "Angular",
     "Angular 2",
-    "Angular 7",
+    "Angular 8",
     "TypeScript",
     "HTML"
   ],
-  "version": "0.6.1",
+  "version": "0.6.2",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"

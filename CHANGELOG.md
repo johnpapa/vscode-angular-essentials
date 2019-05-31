@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="0.6.2"></a>
+
+# 0.6.2 (2019-05-31)
+
+- Fixed README issues
+
 <a name="0.6.1"></a>
 
 # 0.6.1 (2019-04-27)
