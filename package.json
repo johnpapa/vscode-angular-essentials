@@ -13,16 +13,17 @@
     "url": "https://github.com/johnpapa/vscode-angular-essentials.git"
   },
   "scripts": {
-    "publish": "vsce publish"
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
   },
   "keywords": [
     "Angular",
     "Angular 2",
-    "Angular 7",
+    "Angular 8",
     "TypeScript",
     "HTML"
   ],
-  "version": "0.6.0",
+  "version": "0.6.3",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"
@@ -41,6 +42,7 @@
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
     "eg2.vscode-npm-script",
-    "pkief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "nrwl.angular-console"
   ]
 }
