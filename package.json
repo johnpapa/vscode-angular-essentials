@@ -19,11 +19,11 @@
   "keywords": [
     "Angular",
     "Angular 2",
-    "Angular 8",
+    "Angular 9",
     "TypeScript",
     "HTML"
   ],
-  "version": "0.6.3",
+  "version": "9.0.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"
@@ -35,9 +35,9 @@
     "johnpapa.Angular2",
     "Angular.ng-template",
     "EditorConfig.EditorConfig",
-    "ms-vscode.vscode-typescript-tslint-plugin",
+    "dbaeumer.vscode-eslint",
     "msjsdiag.debugger-for-chrome",
-    "natewallace.angular2-inline",
+    "msjsdiag.debugger-for-edge",
     "johnpapa.winteriscoming",
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",

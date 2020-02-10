@@ -1,5 +1,13 @@
 # Angular Essentials Changelog
 
+<a name="9.20-02-10>
+
+# 9.0.0 (2020-02-10)
+
+- removed inline template extension as angular language service handles this now
+- added edge browser debugger
+- removed tslint plugin, replaced with eslint
+
 <a name="0.6.3"></a>
 
 # 0.6.3 (2019-05-31)
