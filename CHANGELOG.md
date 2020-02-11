@@ -1,8 +1,8 @@
 # Angular Essentials Changelog
 
-<a name="9.20-02-10>
+<a name="9.0.1></a>
 
-# 9.0.0 (2020-02-10)
+# 9.0.1 (2020-02-10)
 
 - removed inline template extension as angular language service handles this now
 - added edge browser debugger
