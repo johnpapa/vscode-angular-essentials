@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials",
+  "displayName": "Angular Essentials (Version 9)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -23,7 +23,7 @@
     "TypeScript",
     "HTML"
   ],
-  "version": "9.0.0",
+  "version": "9.0.1",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"
