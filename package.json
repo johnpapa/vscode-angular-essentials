@@ -23,7 +23,7 @@
     "TypeScript",
     "HTML"
   ],
-  "version": "9.0.1",
+  "version": "9.1.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.26.0"
@@ -43,6 +43,7 @@
     "esbenp.prettier-vscode",
     "eg2.vscode-npm-script",
     "pkief.material-icon-theme",
-    "nrwl.angular-console"
+    "nrwl.angular-console",
+    "obenjiro.arrr"
   ]
 }

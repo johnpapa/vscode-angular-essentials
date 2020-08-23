@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="9.1.0></a>
+
+# 9.1.0 (2020-08-23)
+
+- Added Arrr (a tool to refactor components from HTML templates)
+
 <a name="9.0.1></a>
 
 # 9.0.1 (2020-02-10)
