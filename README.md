@@ -7,7 +7,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
-I am often asked, "What are you favorite VS Code extensions for Angular?". I decided it was time to share them via an extension pack.
+I am often asked, "What are your favorite VS Code extensions for Angular?". I decided it was time to share them via an extension pack.
 
 Introducing my [Angular Essentials extension pack for VS Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials&wt.mc_id=angular_essentials-github-jopapa). By installing this extension pack you get a set of great extensions that are helpful with Angular development. You can check out the initial list below.
 
