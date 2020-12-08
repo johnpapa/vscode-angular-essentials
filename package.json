@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 9)",
+  "displayName": "Angular Essentials (Version 11)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,15 +18,14 @@
   },
   "keywords": [
     "Angular",
-    "Angular 2",
-    "Angular 9",
+    "Angular 11",
     "TypeScript",
     "HTML"
   ],
-  "version": "9.0.1",
+  "version": "11.0.0",
   "publisher": "johnpapa",
   "engines": {
-    "vscode": "^1.26.0"
+    "vscode": "^1.37.0"
   },
   "categories": [
     "Extension Packs"

@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="11.0.0></a>
+
+# 11.0.0 (2020-12-08)
+
+- minor updates for Angular 11 and readme
+
 <a name="9.0.1></a>
 
 # 9.0.1 (2020-02-10)
