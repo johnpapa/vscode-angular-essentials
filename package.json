@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 11)",
+  "displayName": "Angular Essentials (Version 12)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,11 +18,11 @@
   },
   "keywords": [
     "Angular",
-    "Angular 11",
+    "Angular 12",
     "TypeScript",
     "HTML"
   ],
-  "version": "11.0.0",
+  "version": "12.0.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.37.0"

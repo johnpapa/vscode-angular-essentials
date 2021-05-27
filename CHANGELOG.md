@@ -1,5 +1,12 @@
 # Angular Essentials Changelog
 
+<a name="12.0.0></a>
+
+# 12.0.0 (2021-05-24)
+
+- minor updates for Angular 12 and readme
+- added a dev container
+
 <a name="11.0.0></a>
 
 # 11.0.0 (2020-12-08)
