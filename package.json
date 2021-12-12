@@ -35,8 +35,6 @@
     "Angular.ng-template",
     "EditorConfig.EditorConfig",
     "dbaeumer.vscode-eslint",
-    "msjsdiag.debugger-for-chrome",
-    "msjsdiag.debugger-for-edge",
     "johnpapa.winteriscoming",
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
