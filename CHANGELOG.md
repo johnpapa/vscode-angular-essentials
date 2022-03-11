@@ -1,5 +1,15 @@
 # Angular Essentials Changelog
 
+<a name="13.0.0></a>
+
+# 13.0.0 (2022-03-11)
+
+- minor updates for Angular 13 and readme
+- removed angular console as its great, but not "needed"
+- removed debuggers as they are deprecated
+
+  > Thess extensions have been deprecated as Visual Studio Code now has a bundled JavaScript Debugger that covers the same functionality. It is a debugger that debugs Node.js, Chrome, Edge, WebView2, VS Code extensions, and more. You can safely un-install this extension and you will still be able to have the functionality you need.
+
 <a name="12.0.0></a>
 
 # 12.0.0 (2021-05-24)

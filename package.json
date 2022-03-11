@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 12)",
+  "displayName": "Angular Essentials (Version 13)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,11 +18,11 @@
   },
   "keywords": [
     "Angular",
-    "Angular 12",
+    "Angular 13",
     "TypeScript",
     "HTML"
   ],
-  "version": "12.0.0",
+  "version": "13.0.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.37.0"
@@ -35,13 +35,10 @@
     "Angular.ng-template",
     "EditorConfig.EditorConfig",
     "dbaeumer.vscode-eslint",
-    "msjsdiag.debugger-for-chrome",
-    "msjsdiag.debugger-for-edge",
     "johnpapa.winteriscoming",
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
     "eg2.vscode-npm-script",
-    "pkief.material-icon-theme",
-    "nrwl.angular-console"
+    "pkief.material-icon-theme"
   ]
 }
