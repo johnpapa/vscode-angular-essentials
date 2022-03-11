@@ -8,7 +8,7 @@
 - removed angular console as its great, but not "needed"
 - removed debuggers as they are deprecated
 
-  > Thess extensions have been deprecated as Visual Studio Code now has a bundled JavaScript Debugger that covers the same functionality. It is a debugger that debugs Node.js, Chrome, Edge, WebView2, VS Code extensions, and more. You can safely un-install this extension and you will still be able to have the functionality you need.
+  > These extensions have been deprecated as Visual Studio Code now has a bundled JavaScript Debugger that covers the same functionality. It is a debugger that debugs Node.js, Chrome, Edge, WebView2, VS Code extensions, and more. You can safely un-install this extension and you will still be able to have the functionality you need.
 
 <a name="12.0.0></a>
 
