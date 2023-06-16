@@ -1,5 +1,12 @@
 # Angular Essentials Changelog
 
+<a name="16.0.0></a>
+
+# 16.0.0 (2023-06-15)
+
+- Added GitHub Copilot, as it's incredibly useful for Angular
+- minor updates for Angular 16 and readme
+
 <a name="13.0.0></a>
 
 # 13.0.0 (2022-03-11)

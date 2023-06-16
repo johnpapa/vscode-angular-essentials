@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 13)",
+  "displayName": "Angular Essentials (Version 16)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,14 +18,14 @@
   },
   "keywords": [
     "Angular",
-    "Angular 13",
+    "Angular 16",
     "TypeScript",
     "HTML"
   ],
-  "version": "13.0.0",
+  "version": "16.0.0",
   "publisher": "johnpapa",
   "engines": {
-    "vscode": "^1.37.0"
+    "vscode": "^1.40.0"
   },
   "categories": [
     "Extension Packs"
@@ -33,12 +33,11 @@
   "extensionPack": [
     "johnpapa.Angular2",
     "Angular.ng-template",
-    "EditorConfig.EditorConfig",
     "dbaeumer.vscode-eslint",
     "johnpapa.winteriscoming",
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
-    "eg2.vscode-npm-script",
-    "pkief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "GitHub.copilot"
   ]
 }
