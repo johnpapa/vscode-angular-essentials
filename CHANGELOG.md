@@ -1,11 +1,11 @@
 # Angular Essentials Changelog
 
-<a name="16.0.0></a>
+<a name="16.0.1></a>
 
-# 16.0.0 (2023-06-15)
+# 16.0.1 (2023-06-15)
 
 - Added GitHub Copilot, as it's incredibly useful for Angular
-- minor updates for Angular 16 and readme
+- minor updates for Angular 16 and readme badges
 
 <a name="13.0.0></a>
 
