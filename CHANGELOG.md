@@ -2,6 +2,11 @@
 
 <a name="16.0.4></a>
 
+# 17.0.0 (2024-03-14)
+
+- Added GitHub Copilot Chat, as it's incredibly useful for Angular
+- minor updates for Angular 17
+
 # 16.0.4 (2023-06-15)
 
 - Added GitHub Copilot, as it's incredibly useful for Angular

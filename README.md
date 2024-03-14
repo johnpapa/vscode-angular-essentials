@@ -29,5 +29,6 @@ This extension pack includes the following extensions:
 | ESlint                   | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)       |
 | Material Icon Theme      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/pkief.material-icon-theme)](https://img.shields.io/visual-studio-marketplace/i/pkief.material-icon-theme) |
 | GitHub Copilot           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot)                       |
+| GitHub Copilot Chat      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat)             |
 | Prettier                 | [![Installs](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)       |
 | Winter is Coming         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.winteriscoming)](https://img.shields.io/visual-studio-marketplace/i/johnpapa.winteriscoming)     |

@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 16)",
+  "displayName": "Angular Essentials (Version 17)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -22,7 +22,7 @@
     "TypeScript",
     "HTML"
   ],
-  "version": "16.0.4",
+  "version": "17.0.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.40.0"
@@ -38,6 +38,7 @@
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
     "pkief.material-icon-theme",
-    "GitHub.copilot"
+    "GitHub.copilot",
+    "GitHub.copilot-chat"
   ]
 }
