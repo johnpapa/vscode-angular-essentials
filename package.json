@@ -25,7 +25,7 @@
   "version": "17.0.0",
   "publisher": "johnpapa",
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Extension Packs"
