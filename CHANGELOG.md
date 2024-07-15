@@ -1,11 +1,19 @@
 # Angular Essentials Changelog
 
-<a name="16.0.4></a>
+<a name="18.0.0></a>
+
+# 18.0.0 (2024-07-15)
+
+- minor updates for Angular 18
+
+<a name="17.0.0></a>
 
 # 17.0.0 (2024-03-14)
 
 - Added GitHub Copilot Chat, as it's incredibly useful for Angular
 - minor updates for Angular 17
+
+<a name="16.0.4></a>
 
 # 16.0.4 (2023-06-15)
 
