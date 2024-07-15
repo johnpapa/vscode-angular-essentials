@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 17)",
+  "displayName": "Angular Essentials",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,11 +18,11 @@
   },
   "keywords": [
     "Angular",
-    "Angular 17",
+    "Angular 18",
     "TypeScript",
     "HTML"
   ],
-  "version": "17.0.0",
+  "version": "18.0.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.50.0"
