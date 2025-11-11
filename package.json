@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 18)",
+  "displayName": "Angular Essentials (Version 20)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,11 +18,11 @@
   },
   "keywords": [
     "Angular",
-    "Angular 18",
+    "Angular 20",
     "TypeScript",
     "HTML"
   ],
-  "version": "18.0.0",
+  "version": "20.0.1",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.50.0"
@@ -38,7 +38,6 @@
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
     "pkief.material-icon-theme",
-    "GitHub.copilot",
     "GitHub.copilot-chat"
   ]
 }
