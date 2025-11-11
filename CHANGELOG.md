@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="20.0.0></a>
+
+# 20.0.0 (2025-11-11)
+
+- minor updates for Angular 20 and GHCP extnension
+
 <a name="18.0.0></a>
 
 # 18.0.0 (2024-07-15)
