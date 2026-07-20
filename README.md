@@ -1,10 +1,6 @@
 # Angular Essentials - Extension Pack for VS Code
 
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular-essentials)](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular-essentials)
-
-<!-- [![Version johnpapa.angular-essentials](https://vsmarketplacebadge.apphb.com/version/johnpapa.angular-essentials.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/johnpapa.angular-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/johnpapa.angular-essentials.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) -->
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular-essentials)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
 
@@ -22,12 +18,12 @@ Introducing my [Angular Essentials extension pack for VS Code](https://marketpla
 
 This extension pack includes the following extensions:
 
-| Extension                | Stats                                                                                                                                                                     |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Angular Snippets         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular2)](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular2)                 |
-| Angular Language Service | [![Installs](https://img.shields.io/visual-studio-marketplace/i/angular.ng-template)](https://img.shields.io/visual-studio-marketplace/i/angular.ng-template)             |
-| ESlint                   | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)       |
-| Material Icon Theme      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/pkief.material-icon-theme)](https://img.shields.io/visual-studio-marketplace/i/pkief.material-icon-theme) |
-| GitHub Copilot Chat      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat)             |
-| Prettier                 | [![Installs](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)       |
-| Winter is Coming         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.winteriscoming)](https://img.shields.io/visual-studio-marketplace/i/johnpapa.winteriscoming)     |
+| Extension                | Marketplace Link                                                                                      |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Angular Snippets         | [johnpapa.angular2](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular2)          |
+| Angular Language Service | [angular.ng-template](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)       |
+| ESLint                   | [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
+| Material Icon Theme      | [pkief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) |
+| GitHub Copilot Chat      | [GitHub.copilot-chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)      |
+| Prettier                 | [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| Winter is Coming         | [johnpapa.winteriscoming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) |
