@@ -53,9 +53,8 @@ This repository is a **VS Code extension pack**. Treat it as a metadata/release 
 | `package.json` `extensionPack` | `README.md` Included table, `CHANGELOG.md` | Keep public docs and release notes synchronized with manifest |
 | `package.json` `version` | `CHANGELOG.md`, release/publish workflow steps | Prevent marketplace version/changelog drift |
 | Included extension IDs | Case-sensitive Marketplace links in `README.md` | Broken IDs/links cause install confusion |
-| Publish/package scripts | `.github/workflows/ci.yml` | CI should reflect real packaging commands without unnecessary install steps |
 | Contribution process or review expectations | `CONTRIBUTING.md`, PR template(s) | Keep contributor guidance and review rubric aligned |
-| Legacy templates at repo root | `.github/ISSUE_TEMPLATE/*.yml` and guidance docs | Preserve compatibility while moving to modern forms |
+| Legacy templates at repo root | `ISSUE_TEMPLATE.md`, `PULL_REQUEST_TEMPLATE.md` | Keep existing community templates usable and consistent with docs |
 
 ## What not to do
 
