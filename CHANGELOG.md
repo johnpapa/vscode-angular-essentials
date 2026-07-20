@@ -1,5 +1,11 @@
 # Angular Essentials Changelog
 
+<a name="22.0.0"></a>
+
+# 22.0.0 (2026-07-19)
+
+- minor updates for Angular 22
+
 <a name="20.0.1"></a>
 
 # 20.0.1 (2025-11-11)
