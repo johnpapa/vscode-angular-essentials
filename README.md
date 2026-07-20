@@ -1,5 +1,6 @@
 # Angular Essentials - Extension Pack for VS Code
 
+[![AI Ready](https://img.shields.io/badge/AI--Ready-yes-brightgreen?style=flat)](https://github.com/johnpapa/ai-ready)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular-essentials)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
