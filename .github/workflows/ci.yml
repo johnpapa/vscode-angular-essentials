@@ -25,10 +25,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "18"
-          cache: "npm"
-
-      - name: Install dependencies
-        run: npm install --package-lock=false
 
       - name: Validate extension manifest shape
         run: |
@@ -36,4 +32,3 @@ jobs:
 
       - name: Package extension
         run: npm run package
-

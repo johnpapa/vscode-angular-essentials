@@ -53,7 +53,6 @@ Validation is packaging-oriented:
 ## CI/CD
 
 - CI validation workflow: `.github/workflows/ci.yml`
-- Copilot setup workflow: `.github/workflows/copilot-setup-steps.yml`
 - Release is marketplace publish via `npm run publish` (maintainer-driven)
 
 ## Adding or Removing an Extension from the Pack
@@ -77,4 +76,3 @@ This repo intentionally has lightweight docs:
 
 - Primary docs: `README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`
 - No separate docs site is currently needed for this project size/scope.
-

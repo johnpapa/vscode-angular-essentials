@@ -53,7 +53,7 @@ This repository is a **VS Code extension pack**. Treat it as a metadata/release 
 | `package.json` `extensionPack` | `README.md` Included table, `CHANGELOG.md` | Keep public docs and release notes synchronized with manifest |
 | `package.json` `version` | `CHANGELOG.md`, release/publish workflow steps | Prevent marketplace version/changelog drift |
 | Included extension IDs | Case-sensitive Marketplace links in `README.md` | Broken IDs/links cause install confusion |
-| Publish/package scripts | `.github/workflows/ci.yml`, `.github/workflows/copilot-setup-steps.yml` | CI/setup must reflect real commands |
+| Publish/package scripts | `.github/workflows/ci.yml` | CI should reflect real packaging commands without unnecessary install steps |
 | Contribution process or review expectations | `CONTRIBUTING.md`, PR template(s) | Keep contributor guidance and review rubric aligned |
 | Legacy templates at repo root | `.github/ISSUE_TEMPLATE/*.yml` and guidance docs | Preserve compatibility while moving to modern forms |
 
@@ -62,4 +62,3 @@ This repository is a **VS Code extension pack**. Treat it as a metadata/release 
 - Don’t add speculative dependencies or framework tooling.
 - Don’t overwrite existing contributor docs wholesale; patch specific sections.
 - Don’t delete legacy templates unless asked; prefer additive migration.
-
