@@ -1,6 +1,6 @@
 {
   "name": "angular-essentials",
-  "displayName": "Angular Essentials (Version 20)",
+  "displayName": "Angular Essentials (Version 22)",
   "description": "Essential extensions for Angular developers",
   "icon": "images/angular-shield.png",
   "galleryBanner": {
@@ -18,11 +18,11 @@
   },
   "keywords": [
     "Angular",
-    "Angular 20",
+    "Angular 22",
     "TypeScript",
     "HTML"
   ],
-  "version": "20.0.1",
+  "version": "22.0.0",
   "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.50.0"
