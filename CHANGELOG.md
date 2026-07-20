@@ -1,5 +1,12 @@
 # Angular Essentials Changelog
 
+<a name="22.0.1"></a>
+
+# 22.0.1 (2026-07-19)
+
+- remove retired README badge references
+- replace included extension stats badges with direct Marketplace links
+
 <a name="22.0.0"></a>
 
 # 22.0.0 (2026-07-19)
