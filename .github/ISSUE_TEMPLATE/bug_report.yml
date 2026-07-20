@@ -1,0 +1,64 @@
+name: Bug report
+description: Report a reproducible problem in this extension pack or its guidance.
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for filing a bug report. Please include enough detail for us to reproduce quickly.
+  - type: input
+    id: vscode_version
+    attributes:
+      label: VS Code version
+      placeholder: e.g. 1.101.2
+    validations:
+      required: true
+  - type: input
+    id: extension_pack_version
+    attributes:
+      label: Angular Essentials version
+      placeholder: e.g. 22.0.1
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: Include exact steps and which extension seems to trigger the issue when enabled alone.
+      placeholder: |
+        1. Install extension pack
+        2. Enable only extension X
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Logs, screenshots, and settings snippets are helpful.
+

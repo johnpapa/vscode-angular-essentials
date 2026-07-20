@@ -1,5 +1,6 @@
 # Angular Essentials - Extension Pack for VS Code
 
+[![AI Ready](https://img.shields.io/badge/AI--Ready-yes-brightgreen?style=flat)](https://github.com/johnpapa/ai-ready)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/johnpapa.angular-essentials)](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
@@ -27,3 +28,19 @@ This extension pack includes the following extensions:
 | GitHub Copilot Chat      | [GitHub.copilot-chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)      |
 | Prettier                 | [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
 | Winter is Coming         | [johnpapa.winteriscoming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) |
+
+## Contributing
+
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
+
+For extension-pack changes, keep these files in sync:
+
+- `package.json` (`extensionPack`, version, metadata)
+- `README.md` (Included extension links)
+- `CHANGELOG.md` (release notes)
+
+Before submitting a PR, run:
+
+```sh
+npm run package
+```
