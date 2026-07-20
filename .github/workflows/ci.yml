@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - "**/*.md"
+      - "LICENSE*"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "**/*.md"
+      - "LICENSE*"
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm install --package-lock=false
+
+      - name: Validate extension manifest shape
+        run: |
+          node -e "const fs=require('fs');const p=JSON.parse(fs.readFileSync('package.json','utf8'));if(!p.extensionPack||!Array.isArray(p.extensionPack)||p.extensionPack.length===0){throw new Error('package.json extensionPack must be a non-empty array');}if(!p.version){throw new Error('package.json version is required');}if(!p.publisher){throw new Error('package.json publisher is required');}console.log('package.json manifest checks passed');"
+
+      - name: Package extension
+        run: npm run package
+
