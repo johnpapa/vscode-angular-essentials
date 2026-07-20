@@ -52,8 +52,8 @@ Validation is packaging-oriented:
 
 ## CI/CD
 
-- CI validation workflow: `.github/workflows/ci.yml`
-- Release is marketplace publish via `npm run publish` (maintainer-driven)
+This repo does not currently maintain a required CI workflow.
+Release/publish is maintainer-driven via `npm run publish`.
 
 ## Adding or Removing an Extension from the Pack
 
